@@ -1,0 +1,16 @@
+@import url(./__background/cover__background.css);
+@import url(./__title/cover__title.css);
+@import url(./__subtitle/cover__subtitle.css);
+
+.cover {
+  height: 62.5vw;
+  background-image: url(../../images/cover-trains.jpg);
+  background-size: cover;
+  margin: 0;
+  }
+
+@media screen and (min-width: 425px) and (max-width: 768px) {
+  .cover {
+    margin: 64px 0;
+  }
+}

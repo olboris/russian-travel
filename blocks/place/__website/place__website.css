@@ -1,0 +1,16 @@
+@import url(./_link/place__website_link.css);
+@import url(./_url-heading/place__website_url-heading.css);
+
+.place__website {
+    font-style: normal;
+    font-weight: normal;
+    align-self: end;
+    width: 100%;
+  }
+
+  @media screen and (max-width: 460px) {
+  
+    .place__website {
+      display: none;
+      }  
+  }

@@ -1,0 +1,29 @@
+.place__info {
+    font-style: normal;
+    font-weight: normal;
+    color: #FFFFFF;
+    align-self: start;
+  }
+
+@media screen and (max-width: 460px) {
+  .place__info {
+    font-size: 16px;
+    line-height: 1.62;
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+}
+
+  @media screen and (min-width: 460px) and (max-width: 1024px) {  
+    .place__info {
+    font-size: 16px;
+    line-height: 1.62;
+    }
+  }
+
+  @media screen and (min-width: 1024px) {
+    .place__info {
+      font-size: 18px;
+      line-height: 1.67;
+    }
+  }

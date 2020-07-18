@@ -1,0 +1,14 @@
+.page {
+  font-family: 'Inter';
+  background: #2A2C2F;
+  margin: 0;
+  overflow: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  }
+
+  @media screen and (min-width: 1280px) {
+    .page {
+      padding: 28px 48px 24px 48px;
+    }
+  }
