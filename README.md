@@ -17,4 +17,4 @@
 * Доработать состояния наведениия для ссылок;
 * Проверить код на кроссбраузерность, дописать вендорные префиксы.
 
-[Ссылка проекта на GitHub] (https://olboris.github.io/russian-travel/index.html)
+[Ссылка проекта на GitHub](https://olboris.github.io/russian-travel/index.html)
