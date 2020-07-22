@@ -1,18 +1,24 @@
-@import url(./__lang_ru/header__lang-link_lang_ru.css);
+@import url(./_lang_ru/header__lang-link_lang_eng.css);
 
 .header__lang-link {
   width: auto;
-  text-decoration: underline;
   color: #FFFFFF;
-  margin: auto 0 0 18px; 
+  margin-left: 18px;
+  margin-right: 0;
   font-style: normal;
   font-weight: normal;
   font-size: 24px;
   line-height: 1.17;
-  text-decoration: none;
 }
 
-@media screen and (max-width: 425px) {
+.header__lang-link:hover {
+  opacity: 0.3;
+  transition: opacity 1s ease-out;
+}
+
+@media screen and (max-width: 650px) {
   .header__lang-link {
-  font-size: 18px; 
+  font-size: 18px;
+  line-height: 1.33; 
+}
 }

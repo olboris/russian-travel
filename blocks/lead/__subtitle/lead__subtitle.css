@@ -2,7 +2,7 @@
     max-width: 640px;
     width: 90%;
     height: auto;
-    margin: 32px auto 56px;
+    margin: 0 auto 56px;
     font-style: normal;
     font-weight: normal;
     font-size: 30px;
@@ -11,25 +11,16 @@
     color: #FFFFFF;
   }
 
-@media screen and (max-width: 768px) {  
+@media screen and (max-width: 650px) {  
     .lead__subtitle {
       font-size: 16px;
       line-height: 1.25;
-      margin-top: 16px;
       margin-bottom: 40px;
     }
 }
 
-@media screen and (min-width: 768px) and (max-width: 1280px) {
-    .lead__subtitle {
-     margin-bottom: 56px;
-     margin-top: 32px;
-    }
-   }
-
 @media screen and (min-width: 1280px) {
      .lead__subtitle {
-      margin-top: 32px;
       margin-bottom: 64px;
     }
 }
