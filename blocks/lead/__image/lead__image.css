@@ -1,6 +1,6 @@
 .lead__image {
     width: 100%;
-    height: calc(100%-18px);
     object-fit: fill;
+    margin-bottom: 8px;
     
 }
