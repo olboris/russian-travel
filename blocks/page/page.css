@@ -5,10 +5,10 @@
   overflow: hidden;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  }
+}
 
 @media screen and (max-width: 425px) {
   .page {
     padding-top: 16px;
   }
-  }
+}

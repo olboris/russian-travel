@@ -13,4 +13,5 @@
   cursor: pointer;
   transition-property: background-color;
   transition: 1s linear 1s;
+  z-index: 2;
   }

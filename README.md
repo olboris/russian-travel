@@ -1,20 +1,46 @@
-# **Проект "Путешествия по России"**
+## Russian Travel
 
-## *Яндекс.Практикум. Курс 02. Спринт 04.*
+### Учебный проект Яндекс.Практикум, курс 02, спринт 04
+<!-- ### Training project from Yandex.Praktikum, cource 02, sprint 04 -->
 
-Основная цель проекта - научиться работаь с макетом и верстать адаптивные сайты.
+<!-- ### Project demo: [Russian Travel](https://olboris.github.io/russian-travel/index.html)-->
+### Демонстрация проекта: [Russian Travel](https://olboris.github.io/russian-travel/index.html)
+---
+<!-- ### Overview -->
+### Описание
 
-### В данном проекте:
+<!-- The main project's goal is training to work with Figma design layout and make adaptive websites.-->
+Одностраничный сайт с описанием и фотографиями основных направлений для путешествий по России. 
+Основная цель проекта - научиться работаь с макетом и создавать адаптивные сайты.
 
-### 1. Исползован макет сайта в Figma;
-### 2. Использованы технологии flex и grid;
-### 3. Использованы медиазапросы и относительные величины;
-### 4. Организована Nested файловая система по БЭМ.
+<!--### Stack:-->
+### Стек:
 
-### Планы по доработке проекта:
+* HTML
+* CSS
 
-* Добвить ссылки;
-* Доработать состояния наведениия для ссылок;
-* Проверить код на кроссбраузерность, дописать вендорные префиксы.
+<!--### Tools and technologies:
 
-[Ссылка проекта на GitHub](https://olboris.github.io/russian-travel/index.html)
+* Figma design layout;
+* flex and grid;
+* position and animation;
+* media queries;
+* relative measure;
+* BEM file system-->
+### В проекте используются:
+
+* технологии flex и grid;
+* позиционирование и анимация;
+* медиазапросы и относительные единицы измерения;
+* Nested файловая система по БЭМ.
+
+<!--### What will be done:
+
+* add active links;
+* make links hover style;
+* сheck the code for cross-browser compatibility, add vendor prefixes-->
+### Планы по доработке:
+
+* добвить активные ссылки;
+* доработать состояния наведениия для ссылок;
+* проверить код на кроссбраузерность, дописать вендорные префиксы.

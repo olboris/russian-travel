@@ -3,9 +3,9 @@
   line-height: 1.22;
   text-decoration-line: underline;
   color: #FFFFFF;
-  }
+}
 
 .place__link:hover {
   opacity: 0.8;
   transition: opacity 1s ease-out;
-  }
+}

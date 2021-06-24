@@ -13,17 +13,17 @@
 @media screen and (max-width: 650px) {
   .header {
     width: calc(100% - 16px*2);
-}
+  }
 }
 
 @media screen and (min-width: 650px) and (max-width: 900px) {
   .header {
     width: calc(100% - 24px*2);
-}
+  }
 }
 
 @media screen and (min-width: 1280px) {
   .header {
-  margin-bottom: 56px;
-}
+    margin-bottom: 56px;
+  }
 }

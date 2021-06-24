@@ -1,13 +1,12 @@
 .place__website {
-    font-style: normal;
-    font-weight: normal;
-    align-self: end;
-    width: 100%;
-  }
+  font-style: normal;
+  font-weight: normal;
+  align-self: end;
+  width: 100%;
+}
 
-  @media screen and (max-width: 650px) {
-  
-    .place__website {
-      display: none;
-      }  
-  }
+@media screen and (max-width: 650px) {
+  .place__website {
+    display: none;
+  }  
+}

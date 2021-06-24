@@ -1,14 +1,14 @@
 .intro__title {
-    width: 100%;
-    min-height: 58px;
-    font-style: normal;
-    font-weight: 900;
-    font-size: 54px;
-    line-height: 107%;
-    color: #FFFFFF;
-    margin-bottom: 40px;
-    margin-top: 0;
-  }
+  width: 100%;
+  min-height: 58px;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 54px;
+  line-height: 107%;
+  color: #FFFFFF;
+  margin-bottom: 40px;
+  margin-top: 0;
+}
 
   @media screen and (max-width: 650px) {
     .intro__title {
